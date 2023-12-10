@@ -1,0 +1,1 @@
+# fishs-detectionyolov8modelwith-autodistill
